@@ -38,13 +38,6 @@
 
 ---
 
-<!-- ====== GITHUB STATS ====== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexjunior&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjunior&layout=compact&theme=dracula" height="150" />
-</div>
-
----
 
 <!-- ====== SNAKE ANIMATION ====== -->
 <p align="center">
@@ -61,14 +54,6 @@
 
 ---
 
-<!-- ====== TECH STACK PROGRESS BARS ====== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&rounded=true" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&rounded=true" />
-  <img src="https://img.shields.io/badge/TypeScript-80%25-3178C6?style=for-the-badge&rounded=true" />
-  <img src="https://img.shields.io/badge/Go-70%25-00ADD8?style=for-the-badge&rounded=true" />
-  <img src="https://img.shields.io/badge/Rust-60%25-000000?style=for-the-badge&rounded=true" />
-</p>
 
 ---
 
