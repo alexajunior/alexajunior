@@ -2,7 +2,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexajunior&color=black)
+![Profile Views](https://komarev.com/ghpvc/?username=alexajunior&color=blue)
 
 ###
 
