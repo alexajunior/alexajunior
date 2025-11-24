@@ -11,7 +11,7 @@
 <!-- ====== PROFILE VIEWS ====== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=alexjunior&color=blue)
 
-### Tech Stack
+### <Tech Stack/>
 
 <!-- ====== TECH STACK ICONS ====== --> <div align="center"> 
 
