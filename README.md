@@ -81,11 +81,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"  />
   <img width="12" />
-
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL"  />
 </div>
 
 </div>
