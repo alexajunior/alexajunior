@@ -6,12 +6,12 @@
 <!-- ====== TYPING EFFECT ====== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Alex+Junior;AI+Software+Developer;Building+Smart+Systems+for+the+Future;Welcome+to+My+GitHub+Profile!" />
 
----
+
 
 <!-- ====== PROFILE VIEWS ====== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=alexjunior&color=blue)
 
----
+
 
 <!-- ====== TECH STACK ICONS ====== -->
 <div align="center">
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+
 
 
 <!-- ====== SNAKE ANIMATION ====== -->
@@ -44,18 +44,13 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
----
-
 <!-- ====== FUN BADGES ====== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Currently_Learning-AI-00F0FF?style=for-the-badge&logo=appveyor&logoColor=white&rounded=true" />
   <img src="https://img.shields.io/badge/Open_to_Collaborations-Yes-FF69B4?style=for-the-badge&logo=github&rounded=true" />
 </p>
 
----
 
-
----
 
 <!-- ====== SOCIAL LINKS (ROUNDED) ====== -->
 <div align="center">
@@ -73,9 +68,4 @@
   </a>
 </div>
 
----
 
-<!-- ====== VISITOR COUNT ====== -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alexjunior" />
-</p>
