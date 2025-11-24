@@ -15,24 +15,7 @@
 
 <!-- ====== TECH STACK ICONS ====== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"  />
+ <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"  />
   <img width="12" />
@@ -40,12 +23,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"  />
   <img width="12" />
+
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3"  />
@@ -56,13 +43,51 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js"  />
+  <img width="12" />
+
+  <!-- Backend & Tools -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"  />
+  <img width="12" />
+
+  <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP"  />
+  <img width="12" />
+
+  <!-- AI / ML / Data -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"  />
+  <img width="12" />
+
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL"  />
+</div>
+
 </div>
 
 
