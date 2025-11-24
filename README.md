@@ -18,8 +18,7 @@
  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"  />
+  <img width="12" /> <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#"  />
   <img width="12" />
