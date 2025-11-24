@@ -13,75 +13,50 @@
 
 
 
-<!-- ====== TECH STACK ICONS ====== -->
-<div align="center">
+<!-- ====== TECH STACK ICONS (RECTANGLE GRID) ====== -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 12px; justify-items: center; align-items: center; max-width: 800px; margin: 0 auto;">
   
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js" />
 
   <!-- Backend & Tools -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
 
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP" />
 
   <!-- AI / ML / Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy" />
+
 </div>
+
 
 </div>
 
