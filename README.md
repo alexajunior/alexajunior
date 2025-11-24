@@ -2,15 +2,13 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Alex+Junior;AI+Software+Developer;Building+Smart+Systems+for+the+Future;Welcome+to+My+GitHub+Profile!" />
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexajunior&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=alexjunior&color=blue)
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -34,6 +32,21 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
+---
 
-###
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexjuniorantwi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://youtube.com/@alexajunior1?si=4bwidx9BJK5DYSZ4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://github.com/alexajunior" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://discord.com/users/alexajunior_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord%3A+alexajunior_&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
