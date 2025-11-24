@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"  />
