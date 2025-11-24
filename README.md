@@ -6,7 +6,7 @@
 
 <!-- ====== TOP BANNER ====== -->
 <p align="center">
-  <img src="https://i.imgur.com/8nE8n8V.png" width="100%" alt="AI Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="AI Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Alex Junior</strong></h1>
@@ -26,7 +26,7 @@
 
 ---
 
-<!-- ====== AI GRAPHIC ICONS - TECH STACK ====== -->
+<!-- ====== TECH STACK ICONS ====== -->
 <h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,ts,nodejs,react,html,css,tailwind" /><br/>
@@ -35,9 +35,10 @@
 
 ---
 
-<!-- ====== CENTER LOGO / AI BADGE ====== -->
+<!-- ====== CENTER LOGO / AVATAR ====== -->
 <p align="center">
-  <img src="https://i.imgur.com/Sg2zjOT.png" width="200px" alt="AI Badge"/>
+  <img src="./assets/logo.png" width="150px" alt="AI Logo"/>
+  <img src="./assets/avatar.png" width="150px" alt="AI Avatar"/>
 </p>
 
 ---
@@ -52,14 +53,17 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://github.com/alexajunior" target="_blank">
-    <img src="https://img.shields.io/static/v1?m
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://discordapp.com/users/alexajunior_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord%3A%20alexajunior_&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</p>
 
+---
 
+<!-- ====== FOOTER BANNER ====== -->
+<p align="center">
+  <img src="./assets/footer.png" width="100%" alt="Footer Banner"/>
+</p>
 
-
-
-
-
-
-
-  
