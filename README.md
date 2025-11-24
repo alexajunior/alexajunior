@@ -29,11 +29,40 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"  />
 </div>
 
 
