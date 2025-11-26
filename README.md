@@ -91,9 +91,7 @@
   <a href="https://youtube.com/@alexajunior1?si=4bwidx9BJK5DYSZ4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge&rounded=true" height="35"/>
   </a>
-  <a href="https://github.com/alexajunior" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&style=for-the-badge&rounded=true" height="35"/>
-  </a>
+  
   <a href="https://discord.com/users/alexajunior_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge&rounded=true" height="35"/>
   </a>
