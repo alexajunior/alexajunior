@@ -71,7 +71,6 @@
 
 <!-- ====== FUN BADGES ====== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-AI-00F0FF?style=for-the-badge&logo=appveyor&logoColor=white&rounded=true" />
   <img src="https://img.shields.io/badge/Open_to_Collaborations-Yes-FF69B4?style=for-the-badge&logo=github&rounded=true" />
 </p>
 
